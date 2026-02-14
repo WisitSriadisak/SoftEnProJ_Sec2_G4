@@ -1,4 +1,4 @@
-# AI Declaration
+# AI Declaration ไม่มีใช้ทั้งนั้นแหละ เก่งจัด
 
 ---
 
