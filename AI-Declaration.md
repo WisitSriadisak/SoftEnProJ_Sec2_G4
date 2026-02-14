@@ -1,5 +1,6 @@
 # AI Declaration ไม่มีใช้ทั้งนั้นแหละ เก่งจัด
 
+ddddddd
 ---
 
 ## ข้อมูลงาน
@@ -7,7 +8,6 @@
 - **รายวิชา:** 
 - **ผู้จัดทำ:** 
 
-fffffffffffffffffffffffffffffffffffffffffffffffffffff
 
 ---
 
